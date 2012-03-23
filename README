@@ -12,3 +12,5 @@ You can also check if a string is a stop word by following function
 
 stopWord = String.isStopWord("this"); //returns true 
 stopWord = String.isStopWord("cat"); //returns false
+
+I have used Long Stopword List from http://www.ranks.nl/resources/stopwords.html.
